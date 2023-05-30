@@ -24,7 +24,7 @@ This repository is [Codespaces](https://docs.github.com/en/codespaces/overview) 
 - [RustUp the toolchaing installer](https://rustup.rs/)
 - [Rust Analyzer extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer&WT.mc_id=academic-0000-alfredodeza)
 
-Assignment: [Setting-up-your-text-editor](./assignments.md#Assignment-1-Setting-up-your-text-editor)
+Assignment: [Setting-up-your-text-editor](./assignments.md#assignment-1-install-rust-with-visual-studio-code)
 
 ### Lesson 2: Using AI pair-programming
 - [GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
