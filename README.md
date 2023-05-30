@@ -14,7 +14,7 @@ This is the first week of the Rust Bootcamp. There are 4 weeks in total:
 ## Contents
 This week has several references to supporting content that can help you setup your environment. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
-This repository is *Codespaces ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
+This repository is [Codespaces](https://docs.github.com/en/codespaces/overview) *ready*, and it is set as a template repository. You can create a new repository from this template and start working on your own with Codespaces. This means that Rust, Copilot, and all the extensions are already installed and configured for you.
 
 :fire: If you need a quick reference for Codespaces and configuration with Visual Studio Code, feel free to reuse the [configuration files](./.devcontainer) in this repository.
 
@@ -24,17 +24,21 @@ This repository is *Codespaces ready*, and it is set as a template repository. Y
 - [RustUp the toolchaing installer](https://rustup.rs/)
 - [Rust Analyzer extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer&WT.mc_id=academic-0000-alfredodeza)
 
+Assignment: [Setting-up-your-text-editor](./assignment.md#Assignment-1-Setting-up-your-text-editor)
 
 ### Lesson 2: Using AI pair-programming
 - [GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
 - [Copilot for Students and Educators](https://aka.ms/Copilot4Students)
 - [Introduction to GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-0000-alfredodeza)
-  
+
+Assignment: [Enable GitHub Copilot](./assignment.md#Assignment-2-Enable-GitHub-Copilot)  
 
 ### Lesson 3: Codespaces for Rust
 - [Introduction to Codespaces](https://learn.microsoft.com/training/modules/work-azure-repos-github/6-develop-online-github-codespaces?WT.mc_id=academic-0000-alfredodeza)
 - [Codespaces for students](https://techcommunity.microsoft.com/t5/educator-developer-blog/what-is-github-codespaces-and-how-can-students-access-it-for/ba-p/3676103?WT.mc_id=academic-0000-alfredodeza)
 - [Managing quotas](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-optimize-your-codespaces-pro-tips-for-managing-quotas/ba-p/3712032?WT.mc_id=academic-0000-alfredodeza)
+
+Assignment: [Codespaces for Rust](./assignment.md#Assignment-3-Configure-Visual-Studio-Code-with-Codespaces)
 
 ## Resources
 
