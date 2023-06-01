@@ -52,6 +52,7 @@ Assignment: [Codespaces for Rust](./assignments.md#Assignment-3-Configure-Visual
 
 **Coursera Courses**
 
+- [MLOps Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 - [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
 - [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-platforms-duke)
 - [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
