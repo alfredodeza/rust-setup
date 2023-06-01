@@ -11,6 +11,10 @@ This is the first week of the Rust Bootcamp. There are 4 weeks in total:
 - [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
 - [week 4](https://github.com/alfredodeza/applied-rust)
 
+🚀 **Watch the Video course**
+
+[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://learning.oreilly.com/videos/rust-bootcamp/28080717VIDEOPAIML/ "Rust Bootcamp")
+
 ## Contents
 This week has several references to supporting content that can help you setup your environment. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
 
