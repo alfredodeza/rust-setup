@@ -7,7 +7,7 @@ This week, you will learn how to optimize your Rust development workflow using p
 This is the first week of the Rust Bootcamp. There are 4 weeks in total:
 
 - [week 1](https://github.com/alfredodeza/rust-setup) 👈 You are here!
-- [week 2](https://github.com/alfredodeza/rust-fundamentals) 
+- [week 2](https://github.com/alfredodeza/rust-fundamentals)
 - [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
 - [week 4](https://github.com/alfredodeza/applied-rust)
 
@@ -35,14 +35,16 @@ Assignment: [Setting-up-your-text-editor](./assignments.md#assignment-1-install-
 - [Copilot for Students and Educators](https://aka.ms/Copilot4Students)
 - [Introduction to GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-0000-alfredodeza)
 
-Assignment: [Enable GitHub Copilot](./assignments.md#Assignment-2-Enable-GitHub-Copilot)  
+Assignment: [Enable GitHub Copilot](./assignments.md#Assignment-2-Enable-GitHub-Copilot)
 
 ### Lesson 3: Codespaces for Rust
 - [Introduction to Codespaces](https://learn.microsoft.com/training/modules/work-azure-repos-github/6-develop-online-github-codespaces?WT.mc_id=academic-0000-alfredodeza)
 - [Codespaces for students](https://techcommunity.microsoft.com/t5/educator-developer-blog/what-is-github-codespaces-and-how-can-students-access-it-for/ba-p/3676103?WT.mc_id=academic-0000-alfredodeza)
 - [Managing quotas](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-optimize-your-codespaces-pro-tips-for-managing-quotas/ba-p/3712032?WT.mc_id=academic-0000-alfredodeza)
 
-Assignment: [Codespaces for Rust](./assignments.md#Assignment-3-Configure-Visual-Studio-Code-with-Codespaces)
+### Lesson 4: Practice Lab
+
+Use the [included lab](./lab.md) for this week to apply the concepts you've learned. The [lab](./lab.md) lab has 3 parts that are all relevant for what you've learned this week.
 
 ## Resources
 
