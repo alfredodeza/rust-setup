@@ -28,14 +28,14 @@ This repository is [Codespaces](https://docs.github.com/en/codespaces/overview) 
 - [RustUp the toolchaing installer](https://rustup.rs/)
 - [Rust Analyzer extension](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer&WT.mc_id=academic-0000-alfredodeza)
 
-Assignment: [Setting-up-your-text-editor](./assignments.md#assignment-1-install-rust-with-visual-studio-code)
+Assignment: [Setting-up-your-text-editor](./lab.md#assignment-1-install-rust-with-visual-studio-code)
 
 ### Lesson 2: Using AI pair-programming
 - [GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
 - [Copilot for Students and Educators](https://aka.ms/Copilot4Students)
 - [Introduction to GitHub Copilot](https://learn.microsoft.com/training/modules/introduction-to-github-copilot/?WT.mc_id=academic-0000-alfredodeza)
 
-Assignment: [Enable GitHub Copilot](./assignments.md#Assignment-2-Enable-GitHub-Copilot)
+Assignment: [Enable GitHub Copilot](./lab.md#Assignment-2-Enable-GitHub-Copilot)
 
 ### Lesson 3: Codespaces for Rust
 - [Introduction to Codespaces](https://learn.microsoft.com/training/modules/work-azure-repos-github/6-develop-online-github-codespaces?WT.mc_id=academic-0000-alfredodeza)
