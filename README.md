@@ -11,6 +11,8 @@ This is the first week of the Rust Bootcamp. There are 4 weeks in total:
 - [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
 - [week 4](https://github.com/alfredodeza/applied-rust)
 
+💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
+
 🚀 **Watch the Video course**
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
