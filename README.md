@@ -13,6 +13,9 @@ This is the first week of the Rust Bootcamp. There are 4 weeks in total:
 
 💡 Are you just looking for a 👉 [Rust template](https://github.com/alfredodeza/rust-template) to get started easily with a project? The [template](https://github.com/alfredodeza/rust-template) has everything you need!
 
+## Is Rust difficult to learn?
+Contrary to what some think, Rust is not actually more difficult to learn than other languages including Python and TypeScript. In fact, [Google gathered data from its own engineers to understand how difficult it is to learn Rust](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html). The final report found that most engineers felt proficient in Rust in 2 months or less, where some would feel proficient in as little as 3 weeks! 
+
 🚀 **Watch the Video course**
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
