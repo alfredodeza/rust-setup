@@ -12,7 +12,7 @@
 
   <!-- Rest of the text with Source Sans Pro font -->
   <text x="5%" y="70%" fill="white" font-size="18" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
-    Rust Prgramming specialization
+    Rust Programming specialization
   </text>
   <!-- Smaller text beneath -->
   <text x="5%" y="90%" fill="white" font-size="12" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
