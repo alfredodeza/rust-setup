@@ -1,3 +1,5 @@
+# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/rse "Coursera Specialization")
+
 # Rust development environment setup
 
 _Rust Bootcamp week 1: Setting up your development environment_
