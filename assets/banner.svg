@@ -3,19 +3,28 @@
     @import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700|Open+Sans:400,400i,700');
     @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3');
   </style>
-  <rect width="100%" height="100%" fill="#012169"/>
-
-  <!-- Text in the top right corner with EB Garamond font -->
-  <text x="95%" y="25%" fill="white" font-size="14" font-family="'EB Garamond', Georgia, 'Times New Roman', Times, serif" text-anchor="end">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#012169;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#013a9e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
+  <text x="95%" y="25%" fill="rgba(255,255,255,0.8)" font-size="14" font-family="'EB Garamond', Georgia, 'Times New Roman', Times, serif" text-anchor="end">
     Duke University
   </text>
-
-  <!-- Rest of the text with Source Sans Pro font -->
-  <text x="5%" y="70%" fill="white" font-size="18" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
+  <rect x="2.5%" y="5%" width="45%" height="90%" rx="5" ry="5" fill="rgba(255,255,255,0.1)"/>
+  <text x="5%" y="25%" fill="white" font-size="18" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start" font-weight="bold">
+    🦀 Join the Bootcamp
+  </text>
+  <text x="5%" y="70%" fill="white" font-size="16" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
     Rust Fundamentals
   </text>
-  <!-- Smaller text beneath -->
-  <text x="5%" y="90%" fill="white" font-size="12" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
+  <text x="5%" y="90%" fill="rgba(255,255,255,0.8)" font-size="11" font-family="'Source Sans 3', sans-serif" dy=".3em" text-anchor="start">
     coursera
+  </text>
+  <rect x="75%" y="50%" width="20%" height="40%" rx="5" ry="5" fill="#FF5733"/>
+  <text x="85%" y="75%" fill="white" font-size="14" font-family="'Source Sans 3', sans-serif" text-anchor="middle" font-weight="bold">
+    Enroll Now
   </text>
 </svg>
