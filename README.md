@@ -1,4 +1,4 @@
-# [![Coursera Course](./assets/banner.svg)](https://insight.paiml.com/rse "Coursera Specialization")
+# [![Coursera Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
 
 # Rust development environment setup
 
