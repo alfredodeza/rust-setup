@@ -20,7 +20,7 @@ Contrary to what some think, Rust is not actually more difficult to learn than o
 
 🚀 **Watch the Video course**
 
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
+[![DS500](https://ds500.paiml.com/assets/social/g6u1k.png)](https://ds500.paiml.com/learn/course/g6u1k/ "Rust Fundamentals Course")
 
 ## Contents
 This week has several references to supporting content that can help you setup your environment. Make sure you have Rust installed and you are using [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic-0000-alfredodeza).
