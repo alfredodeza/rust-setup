@@ -1,4 +1,4 @@
-# [![Coursera Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
+[![Pragmatic AI Labs Course](./assets/banner.svg)](https://ds500.paiml.com/bootcamps/rust/ "Join the Bootcamp")
 
 # Rust development environment setup
 
